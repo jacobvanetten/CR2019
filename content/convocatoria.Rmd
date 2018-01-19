@@ -1,0 +1,26 @@
+---
+title: "Convocatoria de Resumenes"
+author: "Frans van Dunné"
+date: 2017-12-15T21:13:14-05:00
+categories: ["Anuncios"]
+tags: ["Anuncios", "Fechas"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Convocatoria
+
+| Fecha | Accion | Notas |
+|-------|--------|-------|
+| Mayo  | Primer corte para resumenes | |
+
+## Presentaciones orales
+
+
+## Posters
+
+
+
+

@@ -1,0 +1,31 @@
+---
+title: "Contacto con la Conferencia"
+author: "Frans van Dunné"
+date: 2017-12-15T21:13:14-05:00
+categories: ["Anuncios"]
+tags: ["Anuncios", "Fechas"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Contacto
+
+Nuestro objetivo al organizar la conferencia es fomentar los vinculos entre las personas que hacen la comunidad R en Latinoamérica. 
+
+## Organización
+
+Para contactar la organización puedes usar la dirección de correo ConectaR2019@gmail.com. Tratamos de responder tan pronto posible.
+
+## Twitter
+
+https://twitter.com/ConectaR2019"
+
+## Facebook
+
+https://facebook.com/ConectaR2019"
+
+## GitHub
+
+"https://github.com/ConectaR2019"

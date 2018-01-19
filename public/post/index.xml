@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ConectaR2019</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on ConectaR2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anunciamos la Conferencia ConectaR2019</title>
+      <link>/2017/12/15/anunciamos-la-conferencia-conectar2019/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/12/15/anunciamos-la-conferencia-conectar2019/</guid>
+      <description>ConectaR2019 Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
+EL lugar será Auditorio de la Ciudad de la Investigació de la Universidad de Costa Rica.
+ Objetivo principal Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en Centroamérica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región Centroamericana.</description>
+    </item>
+    
+  </channel>
+</rss>

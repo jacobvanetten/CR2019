@@ -1,0 +1,48 @@
+---
+title: "Anunciamos la Conferencia ConectaR2019"
+author: "Frans van Dunné"
+date: 2017-12-15T21:13:14-05:00
+categories: ["Anuncios"]
+tags: ["Anuncios", "Fechas"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# ConectaR2019
+
+Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de  Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
+
+El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
+ 
+
+
+# Objetivo principal
+
+Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en Centroamérica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región Centroamericana.
+
+
+# Ejes temáticos de la conferencia
+
+ - Aplicaciones en distintas disciplinas de la academia y la industria. 
+ - Uso en conjunto con otros lenguajes de programación
+ - Uso innovador de paquetes existentes
+ - Desarrollo de nuevos paquetes
+ - Uso en la enseñanza
+ - Análisis reproducible de datos
+ - Análisis de grandes datos
+ - Aprendizaje automático
+ - Visualización de datos
+ - Análisis de datos abiertos
+
+# Feria de Empleo
+
+Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comunidad de estudiantes y profesionales, qué hacen con R, por qué es necesario su uso en la industria y por qué necesitan gente con esos conocimientos en específico. La feria de empleo está planeada para que sea gratis para todo el público y puede ser planeada como un evento independiente, pero que coincida en fechas con la conferencia. 
+
+# Patrocinadores
+
+Por anunciar. Si estás interesado(a) en patrocinar este evento por favor contactá el comité organizador.
+
+
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuncios on ConectaR2019</title>
+    <link>/categories/anuncios/</link>
+    <description>Recent content in Anuncios on ConectaR2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/anuncios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anunciamos la Conferencia ConectaR2019</title>
+      <link>/2017/12/15/anunciamos-la-conferencia-conectar2019/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/12/15/anunciamos-la-conferencia-conectar2019/</guid>
+      <description>ConectaR2019 Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
+EL lugar será Auditorio de la Ciudad de la Investigació de la Universidad de Costa Rica.
+ Objetivo principal Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en Centroamérica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región Centroamericana.</description>
+    </item>
+    
+    <item>
+      <title>Contacto con la Conferencia</title>
+      <link>/contacto/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/contacto/</guid>
+      <description>Contacto Nuestro objetivo al organizar la conferencia es fomentar los vinculos entre las personas que hacen la comunidad R en Latinoamerica.
+Organización Para contactar la organización puedes usar la dirección de correo ConectaR2019@gmail.com. Tratamos de responder tan pronto posible.
+ Twitter https://twitter.com/ConectaR2019&amp;quot;
+ Facebook https://facebook.com/ConectaR2019&amp;quot;
+ GitHub “https://github.com/ConectaR2019”
+  </description>
+    </item>
+    
+    <item>
+      <title>Convocatoria de Resumenes</title>
+      <link>/convocatoria/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/convocatoria/</guid>
+      <description>Convocatoria   Fecha Accion Notas    Mayo Primer corte para resumenes     Presentaciones orales  Posters   </description>
+    </item>
+    
+    <item>
+      <title>Sobre la Conferencia</title>
+      <link>/sobre/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Fechas Clave   Fecha Accion Notas    Mayo Primer corte para resumenes     Organización Para contactar la organización puedes usar la dirección de correo ConectaR2019@gmail.com. Tratamos de responder tan pronto posible.
+ Twitter https://twitter.com/ConectaR2019&amp;quot;
+ Facebook https://facebook.com/ConectaR2019&amp;quot;
+  </description>
+    </item>
+    
+  </channel>
+</rss>
